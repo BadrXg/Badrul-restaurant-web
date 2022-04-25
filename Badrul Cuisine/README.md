@@ -13,7 +13,7 @@ A `HTML, CSS` Project. Made with ♥ by ` Badrul `. There will be 5 pages in the
 
 - Basic HTML, CSS
 
-## Developer team of Badrul Cuisine
+## Developer Badrul Cuisine
 
 - Badrul Amin
 
